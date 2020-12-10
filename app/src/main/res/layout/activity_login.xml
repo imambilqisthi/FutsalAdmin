@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shape_login"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:fontFamily="@font/ribeye_marrow"
+        android:textSize="50dp"
+        android:textColor="#457b9d"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp">
+    </TextView>
+
+    <EditText
+        android:id="@+id/ETUserMail"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="text"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:textSize="20dp"
+        android:textColor="#457b9d"
+        android:background="@drawable/shape"
+        android:fontFamily="@font/ribeye_marrow"
+        android:hint="Email" />
+    <EditText
+        android:id="@+id/ETPassword"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textPassword"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:textColor="#457b9d"
+        android:textSize="20dp"
+        android:background="@drawable/shape"
+        android:fontFamily="@font/ribeye_marrow"
+        android:hint="Password" />
+
+    <CheckBox
+        android:id="@+id/CBPassword"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#457b9d"
+        android:text="Tampilkan Kata Sandi"
+        android:fontFamily="@font/ribeye_marrow"
+        />
+    <Button
+        android:id="@+id/BTNLogin"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="20dp"
+        android:text="Login"
+        android:textColor="#1d3557"
+        android:background="@drawable/shape_btn"
+        android:fontFamily="@font/ribeye_marrow">
+
+
+    </Button>
+
+
+</LinearLayout>

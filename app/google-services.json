@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "836571919632",
+    "firebase_url": "https://futsaldb-e995e.firebaseio.com",
+    "project_id": "futsaldb-e995e",
+    "storage_bucket": "futsaldb-e995e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836571919632:android:537f7c07a6cb72a4b32195",
+        "android_client_info": {
+          "package_name": "com.example.futsaladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836571919632-22pg7ocs70qhouqlcdlromnqh3715hc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.futsaladmin",
+            "certificate_hash": "5918a01cac28c976c21d4ca9467680ec77489c48"
+          }
+        },
+        {
+          "client_id": "836571919632-5bghppjip3k63sajmisnac7bborcsalt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScMvt0d6JOH4dK2NdObdcLbIHlk5cp3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836571919632-5bghppjip3k63sajmisnac7bborcsalt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836571919632:android:9ea82b862526fd37b32195",
+        "android_client_info": {
+          "package_name": "com.example.futsall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836571919632-akmdtt5b1au4b31jn6fulkvq5ns15f3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.futsall",
+            "certificate_hash": "5918a01cac28c976c21d4ca9467680ec77489c48"
+          }
+        },
+        {
+          "client_id": "836571919632-5bghppjip3k63sajmisnac7bborcsalt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScMvt0d6JOH4dK2NdObdcLbIHlk5cp3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836571919632-5bghppjip3k63sajmisnac7bborcsalt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836571919632:android:3e71ced2c8d3b3b2b32195",
+        "android_client_info": {
+          "package_name": "com.example.futsaluser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836571919632-snti8dp8fga5aho7lrr0ut06l19u8ilo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.futsaluser",
+            "certificate_hash": "5918a01cac28c976c21d4ca9467680ec77489c48"
+          }
+        },
+        {
+          "client_id": "836571919632-5bghppjip3k63sajmisnac7bborcsalt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScMvt0d6JOH4dK2NdObdcLbIHlk5cp3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836571919632-5bghppjip3k63sajmisnac7bborcsalt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
